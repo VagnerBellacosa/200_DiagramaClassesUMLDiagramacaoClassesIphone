@@ -34,7 +34,8 @@ auto
 - CONTEÚDOS
 - INFORMAÇÕES
 
-[Entendendo o desafio: Diagramação de Classes do Iphone](https://web.dio.me/lab/desafio-de-projeto-1/learning/6d16483b-8e3c-4275-9e1d-9ecea46a839c)[Materiais de apoio](https://web.dio.me/lab/desafio-de-projeto-1/learning/e3b2650f-ece9-43ee-b020-1074306e1f07)
+ - [Entendendo o desafio: Diagramação de Classes do Iphone](https://web.dio.me/lab/desafio-de-projeto-1/learning/6d16483b-8e3c-4275-9e1d-9ecea46a839c)
+ - [Materiais de apoio](https://web.dio.me/lab/desafio-de-projeto-1/learning/e3b2650f-ece9-43ee-b020-1074306e1f07)
 
 
 
